@@ -1,0 +1,8 @@
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\LinksSearch\bin\Debug\LinksSearch.dll
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\LinksSearch\bin\Debug\LinksSearch.pdb
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\LinksSearch\bin\Debug\HtmlAgilityPack.dll
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\LinksSearch\bin\Debug\HtmlAgilityPack.pdb
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\LinksSearch\bin\Debug\HtmlAgilityPack.xml
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\LinksSearch\obj\Debug\LinksSearch.csprojResolveAssemblyReference.cache
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\LinksSearch\obj\Debug\LinksSearch.dll
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\LinksSearch\obj\Debug\LinksSearch.pdb

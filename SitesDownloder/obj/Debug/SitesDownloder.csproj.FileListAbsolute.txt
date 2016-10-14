@@ -1,0 +1,11 @@
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\bin\Debug\SitesDownloder.exe.config
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\bin\Debug\SitesDownloder.exe
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\bin\Debug\SitesDownloder.pdb
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\bin\Debug\HtmlAgilityPack.dll
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\bin\Debug\LinksSearch.dll
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\bin\Debug\LinksSearch.pdb
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\bin\Debug\HtmlAgilityPack.pdb
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\bin\Debug\HtmlAgilityPack.xml
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\obj\Debug\SitesDownloder.csprojResolveAssemblyReference.cache
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\obj\Debug\SitesDownloder.exe
+D:\МОЁ\Tasks\Task10_HTTP\SitesDownloder\SitesDownloder\obj\Debug\SitesDownloder.pdb
